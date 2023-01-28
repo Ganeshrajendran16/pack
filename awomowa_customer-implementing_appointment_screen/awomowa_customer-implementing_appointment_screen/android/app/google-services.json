@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300231452883",
+    "project_id": "awomowa",
+    "storage_bucket": "awomowa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300231452883:android:8cf61ae84f5fd9a9f40c26",
+        "android_client_info": {
+          "package_name": "com.istrides.awomowa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300231452883-naubno2r9vdj77jv84gsm14nfadj1n8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSVxcDBkWRIUkvvH45WPLErfIvQIVukcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300231452883-naubno2r9vdj77jv84gsm14nfadj1n8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

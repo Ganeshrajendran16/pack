@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "8d0fbfcbca6f21ec531c26c76958d43b"
+build_time: [1629897999, 524247000]
+inputs:
+  "/Users/asvadheran/iOSAppDev/awomowa/ios/ImageNotification/NotificationService.swift": !dirty [1629897918, 920695630]

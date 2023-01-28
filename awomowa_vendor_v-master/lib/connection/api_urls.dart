@@ -1,0 +1,17 @@
+const String OTP_REQUEST = '/merchant-otp';
+const String CATEGORIES = '/categories';
+const String SIGN_UP = '/merchant-signup';
+const String SIGN_IN = '/merchant-login';
+const String STATUS = '/merchant-details';
+const String ABOUT_US = '/app-content';
+const String SEARCH_SHOP = '/store-mgnt';
+const String FORGOT_PASS = '/vendor-forgot-request';
+const String PACKAGE = '/merchant-package';
+const String UNIT = '/units';
+const String VENDOR_DETAILS = '/merchant-details';
+const String PROFILE_UPDATE = '/vendor-profile-update';
+const String BROADCAST = '/broadcast-mgnt';
+const String OFFER_LIST = '/broadcast';
+const String COLOR_UPDATE = '/vendor-color-code';
+const String PAYMENT_HISTORY = '/merchant-package';
+const String COUPON = '/coupen-managament';
